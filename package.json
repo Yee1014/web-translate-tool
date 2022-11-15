@@ -2,6 +2,11 @@
   "name": "web-translate-tool",
   "private": true,
   "version": "1.0.0",
+  "keywords": [
+    "web",
+    "translate",
+    "tool"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
