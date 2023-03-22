@@ -1,0 +1,751 @@
+{
+  "headerMenuCompanyProfile": {
+    "zh-CN": "公司介绍",
+    "en-US": "Company Introduction",
+    "ko-KR": "회사 소개",
+    "zh-HK": "公司介紹",
+    "vi-VN": "Hồ sơ công ty"
+  },
+  "headerMenuMyCenter": {
+    "zh-CN": "我的",
+    "en-US": "It's mine",
+    "ko-KR": "내 거에요",
+    "zh-HK": "我的",
+    "vi-VN": "của tôi"
+  },
+  "headerMenuShippingTrialCalculation": {
+    "zh-CN": "运费试算",
+    "en-US": "Freight trial calculation",
+    "ko-KR": "화물 시험 계산",
+    "zh-HK": "運費試算",
+    "vi-VN": "vận chuyển thử nghiệm"
+  },
+  "headerMenuLogisticsTrack": {
+    "zh-CN": "物流查询",
+    "en-US": "Logistics inquiry",
+    "ko-KR": "물류 문의",
+    "zh-HK": "物流查詢",
+    "vi-VN": "truy vấn hậu cần"
+  },
+  "headerMenuCrossBorderConsolidation": {
+    "zh-CN": "我要寄件",
+    "en-US": "I want to send",
+    "ko-KR": "나는 보내고 싶다",
+    "zh-HK": "我要寄件",
+    "vi-VN": "tôi muốn gửi"
+  },
+  "cbcModuleItems.quoteCount": {
+    "zh-CN": "运费试算",
+    "en-US": "Freight trial calculation",
+    "ko-KR": "화물 시험 계산",
+    "zh-HK": "運費試算",
+    "vi-VN": "vận chuyển thử nghiệm"
+  },
+  "cbcModuleItems.receivingWarehouse": {
+    "zh-CN": "收货仓库",
+    "en-US": "Receiving warehouse",
+    "ko-KR": "입고 창고",
+    "zh-HK": "收貨倉庫",
+    "vi-VN": "Kho nhận hàng"
+  },
+  "cbcModuleItems.packageReport": {
+    "zh-CN": "集货预报",
+    "en-US": "Consolidation forecast",
+    "ko-KR": "통합 예측",
+    "zh-HK": "集貨預報",
+    "vi-VN": "Dự báo bộ sưu tập"
+  },
+  "cbcModuleItems.orderCreate": {
+    "zh-CN": "专线/集运下单",
+    "en-US": "Dedicated line/consolidation orders",
+    "ko-KR": "전용 라인/통합 주문",
+    "zh-HK": "專線/集運下單",
+    "vi-VN": "Dòng đặc biệt/Lệnh hợp nhất"
+  },
+  "cbcModuleItems.toBeWarehouse": {
+    "zh-CN": "待入库包裹",
+    "en-US": "Packages to be shipped",
+    "ko-KR": "배송될 패키지",
+    "zh-HK": "待入庫包裹",
+    "vi-VN": "Bưu kiện chờ lưu kho"
+  },
+  "cbcModuleItems.intoWarehouse": {
+    "zh-CN": "申请出运",
+    "en-US": "Request shipment",
+    "ko-KR": "배송 요청",
+    "zh-HK": "申請出運",
+    "vi-VN": "Áp dụng cho lô hàng"
+  },
+  "cbcModuleItems.toBeAudit": {
+    "zh-CN": "待审核",
+    "en-US": "To be reviewed",
+    "ko-KR": "검토 예정",
+    "zh-HK": "待審核",
+    "vi-VN": "để được xem xét"
+  },
+  "cbcModuleItems.toBePay": {
+    "zh-CN": "已核单",
+    "en-US": "Approved",
+    "ko-KR": "승인",
+    "zh-HK": "已核單",
+    "vi-VN": "Đã kiểm tra"
+  },
+  "cbcModuleItems.toByDelivery": {
+    "zh-CN": "待出运",
+    "en-US": "To be shipped",
+    "ko-KR": "배송 예정",
+    "zh-HK": "待出運",
+    "vi-VN": "được vận chuyển"
+  },
+  "cbcModuleItems.deliverying": {
+    "zh-CN": "已出运",
+    "en-US": "Shipped",
+    "ko-KR": "발송",
+    "zh-HK": "已出運",
+    "vi-VN": "vận chuyển"
+  },
+  "cbcModuleItems.signFor": {
+    "zh-CN": "已签收",
+    "en-US": "Signed",
+    "ko-KR": "서명",
+    "zh-HK": "已簽收",
+    "vi-VN": "Đã nhận được"
+  },
+  "cbcModuleItems.queryOrder": {
+    "zh-CN": "订单查询",
+    "en-US": "Order Inquiry",
+    "ko-KR": "주문 문의",
+    "zh-HK": "訂單查詢",
+    "vi-VN": "Theo dõi đơn hàng"
+  },
+  "myCenterModuleItems.toBeWarehouse": {
+    "zh-CN": "未入库",
+    "en-US": "Not in stock",
+    "ko-KR": "재고가 없음",
+    "zh-HK": "未入庫",
+    "vi-VN": "Không có trong kho"
+  },
+  "myCenterModuleItems.intoWarehouse": {
+    "zh-CN": "已入库",
+    "en-US": "Stocked",
+    "ko-KR": "갖춰져",
+    "zh-HK": "已入庫",
+    "vi-VN": "còn hàng"
+  },
+  "myCenterModuleItems.toBeAudit": {
+    "zh-CN": "待审核",
+    "en-US": "To be reviewed",
+    "ko-KR": "검토 예정",
+    "zh-HK": "待審核",
+    "vi-VN": "để được xem xét"
+  },
+  "myCenterModuleItems.toBePay": {
+    "zh-CN": "已核单",
+    "en-US": "Approved",
+    "ko-KR": "승인",
+    "zh-HK": "已核單",
+    "vi-VN": "Đã kiểm tra"
+  },
+  "myCenterModuleItems.toByDelivery": {
+    "zh-CN": "待出运",
+    "en-US": "To be shipped",
+    "ko-KR": "배송 예정",
+    "zh-HK": "待出運",
+    "vi-VN": "được vận chuyển"
+  },
+  "myCenterModuleItems.deliverying": {
+    "zh-CN": "已出运",
+    "en-US": "Shipped",
+    "ko-KR": "발송",
+    "zh-HK": "已出運",
+    "vi-VN": "vận chuyển"
+  },
+  "myCenterModuleItems.signFor": {
+    "zh-CN": "已签收",
+    "en-US": "Signed",
+    "ko-KR": "서명",
+    "zh-HK": "已簽收",
+    "vi-VN": "Đã nhận được"
+  },
+  "router.CaseDetail": {
+    "zh-CN": "案例详情",
+    "en-US": "Case details",
+    "ko-KR": "케이스 세부 정보",
+    "zh-HK": "案例詳情",
+    "vi-VN": "Chi tiết trường hợp"
+  },
+  "router.Home": {
+    "zh-CN": "",
+    "en-US": "",
+    "ko-KR": "",
+    "zh-HK": "",
+    "vi-VN": ""
+  },
+  "router.CBCHome": {
+    "zh-CN": "跨境集运",
+    "en-US": "Cross-border consolidation",
+    "ko-KR": "국경 간 통합",
+    "zh-HK": "跨境集運",
+    "vi-VN": "Hợp nhất xuyên biên giới"
+  },
+  "router.SheetForecast": {
+    "zh-CN": "集货预报",
+    "en-US": "Consolidation forecast",
+    "ko-KR": "통합 예측",
+    "zh-HK": "集貨預報",
+    "vi-VN": "Dự báo bộ sưu tập"
+  },
+  "router.CalcFreight": {
+    "zh-CN": "运费试算",
+    "en-US": "Freight trial calculation",
+    "ko-KR": "화물 시험 계산",
+    "zh-HK": "運費試算",
+    "vi-VN": "vận chuyển thử nghiệm"
+  },
+  "router.Freight": {
+    "zh-CN": "运费试算",
+    "en-US": "Freight trial calculation",
+    "ko-KR": "화물 시험 계산",
+    "zh-HK": "運費試算",
+    "vi-VN": "vận chuyển thử nghiệm"
+  },
+  "router.NoticeDetail": {
+    "zh-CN": "业务公告",
+    "en-US": "Business Announcements",
+    "ko-KR": "사업발표",
+    "zh-HK": "業務公告",
+    "vi-VN": "thông báo kinh doanh"
+  },
+  "router.MyHome": {
+    "zh-CN": "我的",
+    "en-US": "It's mine",
+    "ko-KR": "내 거에요",
+    "zh-HK": "我的",
+    "vi-VN": "của tôi"
+  },
+  "router.Retrieve": {
+    "zh-CN": "密码找回",
+    "en-US": "Password recovery",
+    "ko-KR": "비밀번호 복구",
+    "zh-HK": "密碼找回",
+    "vi-VN": "khôi phục mật khẩu"
+  },
+  "router.Login": {
+    "zh-CN": "欢迎使用",
+    "en-US": "Welcome to use",
+    "ko-KR": "사용을 환영합니다",
+    "zh-HK": "歡迎使用",
+    "vi-VN": "Chào mừng"
+  },
+  "router.Maintain": {
+    "zh-CN": "服务维护",
+    "en-US": "Service maintenance",
+    "ko-KR": "서비스 유지 보수",
+    "zh-HK": "服務維護",
+    "vi-VN": "bảo trì dịch vụ"
+  },
+  "router.Page404": {
+    "zh-CN": "404",
+    "en-US": "404",
+    "ko-KR": "404",
+    "zh-HK": "404",
+    "vi-VN": "404"
+  },
+  "router.SignIn": {
+    "zh-CN": "登录",
+    "en-US": "login",
+    "ko-KR": "로그인",
+    "zh-HK": "登錄",
+    "vi-VN": "Đăng nhập"
+  },
+  "router.SignUp": {
+    "zh-CN": "注册",
+    "en-US": "enroll",
+    "ko-KR": "등록",
+    "zh-HK": "註冊",
+    "vi-VN": "đăng ký"
+  },
+  "message.loadingText": {
+    "zh-CN": "努力加载中...",
+    "en-US": "Struggling to load...",
+    "ko-KR": "로드하는 데 어려움을 겪고 있습니다 ...",
+    "zh-HK": "努力載入中...",
+    "vi-VN": "Đang cố tải..."
+  },
+  "message.maintain": {
+    "zh-CN": "服务维护",
+    "en-US": "Service maintenance",
+    "ko-KR": "서비스 유지 보수",
+    "zh-HK": "服務維護",
+    "vi-VN": "bảo trì dịch vụ"
+  },
+  "message.readPrivacyAgreement": {
+    "zh-CN": "请仔细阅读《用户隐私协议》，勾选后登录",
+    "en-US": "Please read the User Privacy Agreement carefully and log in after checking the box",
+    "ko-KR": "사용자 개인 정보 보호 계약을주의 깊게 읽고 확인란을 선택한 후 로그인하십시오.",
+    "zh-HK": "請仔細閱讀《用戶隱私協定》，勾選後登錄",
+    "vi-VN": "Vui lòng đọc kỹ \"Thỏa thuận quyền riêng tư của người dùng\" và đăng nhập sau khi đánh dấu"
+  },
+  "message.signInSuccess": {
+    "zh-CN": "登录成功",
+    "en-US": "Login successful",
+    "ko-KR": "로그인 성공",
+    "zh-HK": "登錄成功",
+    "vi-VN": "đăng nhập thành công"
+  },
+  "message.signInFail": {
+    "zh-CN": "登录失败",
+    "en-US": "Login failed",
+    "ko-KR": "로그인 실패",
+    "zh-HK": "登錄失敗",
+    "vi-VN": "Đăng nhập thất bại"
+  },
+  "message.signUpSuccess": {
+    "zh-CN": "注册成功",
+    "en-US": "Registration successful",
+    "ko-KR": "등록 성공",
+    "zh-HK": "註冊成功",
+    "vi-VN": "đăng ký thành công"
+  },
+  "message.signUpFail": {
+    "zh-CN": "注册失败",
+    "en-US": "Registration failed",
+    "ko-KR": "등록 실패",
+    "zh-HK": "註冊失敗",
+    "vi-VN": "đăng ký thất bại"
+  },
+  "message.sendVerifyCodeTip": {
+    "zh-CN": "验证码已发送，请注意查收",
+    "en-US": "The verification code has been sent, please check it",
+    "ko-KR": "인증 코드가 전송되었으니 확인해주세요",
+    "zh-HK": "驗證碼已發送，請注意查收",
+    "vi-VN": "Mã xác minh đã được gửi, hãy chú ý kiểm tra"
+  },
+  "message.resetPwd": {
+    "zh-CN": "重置成功，请重新登录！",
+    "en-US": "Reset successful, please log in again!",
+    "ko-KR": "재설정 성공, 다시 로그인하십시오!",
+    "zh-HK": "重置成功，請重新登錄！",
+    "vi-VN": "Thiết lập lại thành công, vui lòng đăng nhập lại!"
+  },
+  "formRule.requiredAccount": {
+    "zh-CN": "请输入账号",
+    "en-US": "Please enter the account number",
+    "ko-KR": "계좌 번호를 입력하십시오",
+    "zh-HK": "請輸入帳號",
+    "vi-VN": "Vui lòng nhập tên người dùng"
+  },
+  "formRule.account": {
+    "zh-CN": "账号格式错误，仅支持4-30位的手机号/邮箱/中文+字母+数字组合",
+    "en-US": "The account format is wrong, and only 4-30 digits of mobile phone number/email/Chinese+ letters + numbers are supported",
+    "ko-KR": "계정 형식이 잘못되어 휴대폰 번호 / 이메일 / 중국어 + 문자 + 숫자 4-30 자리 만 지원됩니다.",
+    "zh-HK": "帳號格式錯誤，僅支援4-30位的手機號/郵箱/中文+字母+數字組合",
+    "vi-VN": "Định dạng tài khoản sai, chỉ hỗ trợ 4-30 chữ số của số điện thoại di động/email/tổ hợp số + chữ + số Trung Quốc được hỗ trợ"
+  },
+  "formRule.requiredPwd": {
+    "zh-CN": "密码必填",
+    "en-US": "Password is required",
+    "ko-KR": "비밀번호가 필요합니다",
+    "zh-HK": "密碼必填",
+    "vi-VN": "mật khẩu được yêu câu"
+  },
+  "formRule.password": {
+    "zh-CN": "密码为6～20位长度",
+    "en-US": "The password is 6~20 digits long",
+    "ko-KR": "비밀번호는 6~20자리입니다.",
+    "zh-HK": "密碼為6~20位長度",
+    "vi-VN": "Mật khẩu có độ dài từ 6 đến 20 ký tự"
+  },
+  "formRule.passwordAgain": {
+    "zh-CN": "两次密码输入不一致",
+    "en-US": "The two password entries are inconsistent",
+    "ko-KR": "두 암호 항목이 일치하지 않습니다.",
+    "zh-HK": "兩次密碼輸入不一致",
+    "vi-VN": "Hai mật khẩu đã nhập không nhất quán"
+  },
+  "formRule.requiredEmail": {
+    "zh-CN": "邮箱必填",
+    "en-US": "Email is required",
+    "ko-KR": "이메일은 필수 항목입니다.",
+    "zh-HK": "郵箱必填",
+    "vi-VN": "Email thì cần thiết"
+  },
+  "formRule.requiredPhone": {
+    "zh-CN": "手机号必填",
+    "en-US": "Mobile phone number is required",
+    "ko-KR": "휴대 전화 번호는 필수 항목입니다.",
+    "zh-HK": "手機號必填",
+    "vi-VN": "Số điện thoại di động là bắt buộc"
+  },
+  "formRule.phone": {
+    "zh-CN": "手机号为11位数字",
+    "en-US": "The mobile phone number is an 11-digit number",
+    "ko-KR": "휴대폰 번호는 11자리 숫자입니다.",
+    "zh-HK": "手機號為11位數位",
+    "vi-VN": "Số điện thoại di động là 11 chữ số"
+  },
+  "formRule.email": {
+    "zh-CN": "请输入正确邮箱格式",
+    "en-US": "Please enter the correct email format",
+    "ko-KR": "올바른 이메일 형식을 입력하십시오.",
+    "zh-HK": "請輸入正確郵箱格式",
+    "vi-VN": "Vui lòng nhập đúng định dạng email"
+  },
+  "formRule.requiredVerifyImg": {
+    "zh-CN": "图形验证码必填",
+    "en-US": "Graphic captcha is required",
+    "ko-KR": "그래픽 보안 문자가 필요합니다.",
+    "zh-HK": "圖形驗證碼必填",
+    "vi-VN": "Mã xác minh đồ họa là bắt buộc"
+  },
+  "formRule.requiredVerifyCode": {
+    "zh-CN": "验证码必填",
+    "en-US": "Captcha is required",
+    "ko-KR": "보안 문자가 필요합니다.",
+    "zh-HK": "驗證碼必填",
+    "vi-VN": "Yêu cầu mã xác nhận"
+  },
+  "formRule.requiredAccountName": {
+    "zh-CN": "请输入您的姓名或微信昵称",
+    "en-US": "Please enter your name or WeChat nickname",
+    "ko-KR": "이름 또는 위챗 닉네임을 입력하십시오.",
+    "zh-HK": "請輸入您的姓名或微信暱稱",
+    "vi-VN": "Vui lòng nhập tên hoặc biệt hiệu WeChat của bạn"
+  },
+  "text.accountBalance": {
+    "zh-CN": "账户余额",
+    "en-US": "Account balance",
+    "ko-KR": "계정 잔액",
+    "zh-HK": "賬戶餘額",
+    "vi-VN": "Số dư tài khoản"
+  },
+  "text.contractCustomer": {
+    "zh-CN": "联系客服",
+    "en-US": "Contact customer service",
+    "ko-KR": "고객 서비스에 문의",
+    "zh-HK": "聯繫客服",
+    "vi-VN": "liên hệ với dịch vụ khách hàng"
+  },
+  "text.customerService": {
+    "zh-CN": "客服",
+    "en-US": "Customer",
+    "ko-KR": "고객",
+    "zh-HK": "客服",
+    "vi-VN": "dịch vụ khách hàng"
+  },
+  "text.informSetting": {
+    "zh-CN": "推送设置",
+    "en-US": "Push settings",
+    "ko-KR": "푸시 설정",
+    "zh-HK": "推送設置",
+    "vi-VN": "cài đặt đẩy"
+  },
+  "text.followWechat": {
+    "zh-CN": "关注公众号",
+    "en-US": "Pay attention to the official account",
+    "ko-KR": "공식 계정에주의",
+    "zh-HK": "關注公眾號",
+    "vi-VN": "Hãy chú ý đến tài khoản chính thức"
+  },
+  "text.welcomeSendSheetText": {
+    "zh-CN": "欢迎寄件！",
+    "en-US": "Welcome to send!",
+    "ko-KR": "보내 주셔서 감사합니다!",
+    "zh-HK": "歡迎寄件！",
+    "vi-VN": "Chào mừng đến với bài viết!"
+  },
+  "text.viewDetail": {
+    "zh-CN": "账户明细",
+    "en-US": "Account Details",
+    "ko-KR": "계정 세부 정보",
+    "zh-HK": "帳戶明細",
+    "vi-VN": "Chi tiết tài khoản"
+  },
+  "text.accountSignIn": {
+    "zh-CN": "账户登录",
+    "en-US": "Account login",
+    "ko-KR": "계정 로그인",
+    "zh-HK": "帳戶登錄",
+    "vi-VN": "đăng nhập tài khoản"
+  },
+  "text.privacyAgreement": {
+    "zh-CN": "《用户隐私协议》",
+    "en-US": "《User Privacy Agreement》",
+    "ko-KR": "《사용자 개인 정보 보호 계약》",
+    "zh-HK": "《用戶隱私協定》",
+    "vi-VN": "\"Thỏa thuận quyền riêng tư của người dùng\""
+  },
+  "text.phoneReg": {
+    "zh-CN": "手机注册",
+    "en-US": "Mobile phone registration",
+    "ko-KR": "휴대폰 등록",
+    "zh-HK": "手機註冊",
+    "vi-VN": "Đăng ký điện thoại của bạn"
+  },
+  "text.emailReg": {
+    "zh-CN": "邮箱注册",
+    "en-US": "Email registration",
+    "ko-KR": "이메일 등록",
+    "zh-HK": "郵箱註冊",
+    "vi-VN": "đăng ky email"
+  },
+  "text.siteLanguage": {
+    "zh-CN": "请选择语言",
+    "en-US": "Please select a language",
+    "ko-KR": "언어를 선택하세요",
+    "zh-HK": "請選擇語言",
+    "vi-VN": "Vui lòng chọn ngôn ngữ"
+  },
+  "label.specificSignCode": {
+    "zh-CN": "(您的专属寄件标识)",
+    "en-US": "(Your Shipping ID)",
+    "ko-KR": "(배송 ID)",
+    "zh-HK": "（您的專屬寄件標識）",
+    "vi-VN": "(ID vận chuyển độc quyền của bạn)"
+  },
+  "button.viewDetail": {
+    "zh-CN": "账户明细",
+    "en-US": "Account Details",
+    "ko-KR": "계정 세부 정보",
+    "zh-HK": "帳戶明細",
+    "vi-VN": "Chi tiết tài khoản"
+  },
+  "button.toRecharge": {
+    "zh-CN": "充值",
+    "en-US": "recharge",
+    "ko-KR": "재충전",
+    "zh-HK": "充值",
+    "vi-VN": "nạp điện"
+  },
+  "button.imSignIn": {
+    "zh-CN": "立即登录",
+    "en-US": "Log in now",
+    "ko-KR": "지금 로그인",
+    "zh-HK": "立即登錄",
+    "vi-VN": "đăng nhập ngay lập tức"
+  },
+  "button.select": {
+    "zh-CN": "选择",
+    "en-US": "choose",
+    "ko-KR": "고르다",
+    "zh-HK": "選擇",
+    "vi-VN": "chọn"
+  },
+  "button.modify": {
+    "zh-CN": "修改",
+    "en-US": "revise",
+    "ko-KR": "복습하다",
+    "zh-HK": "修改",
+    "vi-VN": "Ôn lại"
+  },
+  "button.signIn": {
+    "zh-CN": "登录",
+    "en-US": "login",
+    "ko-KR": "로그인",
+    "zh-HK": "登錄",
+    "vi-VN": "Đăng nhập"
+  },
+  "button.signOut": {
+    "zh-CN": "退出登录",
+    "en-US": "Sign out",
+    "ko-KR": "로그아웃",
+    "zh-HK": "退出登錄",
+    "vi-VN": "đăng xuất"
+  },
+  "button.register": {
+    "zh-CN": "注册",
+    "en-US": "enroll",
+    "ko-KR": "등록",
+    "zh-HK": "註冊",
+    "vi-VN": "đăng ký"
+  },
+  "button.submit": {
+    "zh-CN": "提交",
+    "en-US": "submit",
+    "ko-KR": "전송",
+    "zh-HK": "提交",
+    "vi-VN": "nộp"
+  },
+  "button.nextStep": {
+    "zh-CN": "下一步",
+    "en-US": "Next",
+    "ko-KR": "다음",
+    "zh-HK": "下一步",
+    "vi-VN": "Bước tiếp theo"
+  },
+  "button.accountSignIn": {
+    "zh-CN": "账户登录",
+    "en-US": "Account login",
+    "ko-KR": "계정 로그인",
+    "zh-HK": "帳戶登錄",
+    "vi-VN": "đăng nhập tài khoản"
+  },
+  "button.accountSignUp": {
+    "zh-CN": "账户注册",
+    "en-US": "Account registration",
+    "ko-KR": "계정 등록",
+    "zh-HK": "賬戶註冊",
+    "vi-VN": "Đăng ký tài khoản"
+  },
+  "button.phoneSignIn": {
+    "zh-CN": "手机登录",
+    "en-US": "Mobile sign-in",
+    "ko-KR": "모바일 로그인",
+    "zh-HK": "手機登錄",
+    "vi-VN": "Đăng nhập bằng điện thoại"
+  },
+  "button.emailSignIn": {
+    "zh-CN": "邮箱登录",
+    "en-US": "Email login",
+    "ko-KR": "이메일 로그인",
+    "zh-HK": "郵箱登錄",
+    "vi-VN": "Email đăng nhập"
+  },
+  "button.forgetPwd": {
+    "zh-CN": "忘记密码?",
+    "en-US": "Forgot your password?",
+    "ko-KR": "비밀번호를 잊으셨나요?",
+    "zh-HK": "忘記密碼？",
+    "vi-VN": "quên mật khẩu?"
+  },
+  "button.freeReg": {
+    "zh-CN": "免费注册",
+    "en-US": "Sign up for free",
+    "ko-KR": "무료로 가입하기",
+    "zh-HK": "免費註冊",
+    "vi-VN": "đăng ký miễn phí"
+  },
+  "button.delete": {
+    "zh-CN": "删除",
+    "en-US": "Delete",
+    "ko-KR": "삭제하다",
+    "zh-HK": "刪除",
+    "vi-VN": "xóa bỏ"
+  },
+  "button.confirm": {
+    "zh-CN": "确定",
+    "en-US": "Are you sure",
+    "ko-KR": "확실한가요",
+    "zh-HK": "確定",
+    "vi-VN": "Chắc chắn"
+  },
+  "button.cancel": {
+    "zh-CN": "取消",
+    "en-US": "Cancel",
+    "ko-KR": "취소",
+    "zh-HK": "取消",
+    "vi-VN": "Hủy bỏ"
+  },
+  "button.clear": {
+    "zh-CN": "清空",
+    "en-US": "empty",
+    "ko-KR": "비우다",
+    "zh-HK": "清空",
+    "vi-VN": "trống"
+  },
+  "button.readPrivacy": {
+    "zh-CN": "我已阅读并同意",
+    "en-US": "I have read and agree",
+    "ko-KR": "읽었으며 동의합니다",
+    "zh-HK": "我已閱讀並同意",
+    "vi-VN": "tôi đã đọc và đồng ý"
+  },
+  "button.getVerifyCode": {
+    "zh-CN": "获取验证码",
+    "en-US": "Get a verification code",
+    "ko-KR": "인증 코드 받기",
+    "zh-HK": "獲取驗證碼",
+    "vi-VN": "lấy mã xác minh"
+  },
+  "placeholder.account": {
+    "zh-CN": "请输入账号",
+    "en-US": "Please enter the account number",
+    "ko-KR": "계좌 번호를 입력하십시오",
+    "zh-HK": "請輸入帳號",
+    "vi-VN": "Vui lòng nhập tên người dùng"
+  },
+  "placeholder.password": {
+    "zh-CN": "请输入密码（6-20位长度）",
+    "en-US": "Please enter password (6-20 digits in length)",
+    "ko-KR": "비밀번호를 입력하십시오 (6-20 자리 길이)",
+    "zh-HK": "請輸入密碼（6-20位長度）",
+    "vi-VN": "Vui lòng nhập mật khẩu (dài 6-20 chữ số)"
+  },
+  "placeholder.phone": {
+    "zh-CN": "请输入手机号",
+    "en-US": "Please enter your mobile phone number",
+    "ko-KR": "휴대폰 번호를 입력해 주세요",
+    "zh-HK": "請輸入手機號",
+    "vi-VN": "Vui lòng nhập số điện thoại"
+  },
+  "placeholder.verifyImg": {
+    "zh-CN": "请输入图形验证码",
+    "en-US": "Please enter the graphic verification code",
+    "ko-KR": "그래픽 인증 코드를 입력하십시오.",
+    "zh-HK": "請輸入圖形驗證碼",
+    "vi-VN": "Vui lòng nhập mã xác minh đồ họa"
+  },
+  "placeholder.email": {
+    "zh-CN": "请输入邮箱",
+    "en-US": "Please enter your email address",
+    "ko-KR": "이메일 주소를 입력해 주세요",
+    "zh-HK": "請輸入郵箱",
+    "vi-VN": "vui lòng nhập email của bạn"
+  },
+  "placeholder.verifyCode": {
+    "zh-CN": "请输入验证码",
+    "en-US": "Please enter the verification code",
+    "ko-KR": "인증 코드를 입력하십시오",
+    "zh-HK": "請輸入驗證碼",
+    "vi-VN": "vui lòng nhập mã xác nhận"
+  },
+  "placeholder.accountName": {
+    "zh-CN": "请输入您的姓名或微信昵称",
+    "en-US": "Please enter your name or WeChat nickname",
+    "ko-KR": "이름 또는 위챗 닉네임을 입력하십시오.",
+    "zh-HK": "請輸入您的姓名或微信暱稱",
+    "vi-VN": "Vui lòng nhập tên hoặc biệt hiệu WeChat của bạn"
+  },
+  "placeholder.company": {
+    "zh-CN": "请输入您的企业名称（没有可不填）",
+    "en-US": "Please enter your business name (no field)",
+    "ko-KR": "업체 이름을 입력하십시오 (필드 없음).",
+    "zh-HK": "請輸入您的企業名稱（沒有可不填）",
+    "vi-VN": "Vui lòng nhập tên doanh nghiệp của bạn (nếu không có, vui lòng để trống)"
+  },
+  "placeholder.pwdAgain": {
+    "zh-CN": "请再次输入密码",
+    "en-US": "Please enter your password again",
+    "ko-KR": "비밀번호를 다시 입력하십시오.",
+    "zh-HK": "請再次輸入密碼",
+    "vi-VN": "vui lòng nhập lại mật khẩu"
+  },
+  "emailSendDialog.emailSendDialogTitle": {
+    "zh-CN": "发送成功",
+    "en-US": "Send successfully",
+    "ko-KR": "성공적으로 보내기",
+    "zh-HK": "發送成功",
+    "vi-VN": "Gửi thành công"
+  },
+  "emailSendDialog.emailSendDialogTips": {
+    "zh-CN": "注：验证码仅一次有效",
+    "en-US": "Note: The verification code is valid only once",
+    "ko-KR": "참고: 인증 코드는 한 번만 유효합니다.",
+    "zh-HK": "注：驗證碼僅一次有效",
+    "vi-VN": "Lưu ý: Mã xác nhận chỉ có giá trị 1 lần"
+  },
+  "emailSendDialog.emailSendDialogText": {
+    "zh-CN": "验证码已发送！邮箱由于国际网络等原因可能会有几分钟延迟请您耐心等待！",
+    "en-US": "Captcha sent! The mailbox may be delayed for a few minutes due to international network and other reasons, please be patient!",
+    "ko-KR": "보안 문자가 전송되었습니다! 사서함은 국제 네트워크 및 기타 이유로 인해 몇 분 동안 지연 될 수 있습니다, 기다려주십시오!",
+    "zh-HK": "驗證碼已發送！郵箱由於國際網路等原因可能會有幾分鐘延遲請您耐心等待！",
+    "vi-VN": "Mã xác minh đã được gửi! Do mạng quốc tế và các lý do khác, hộp thư có thể bị chậm trong vài phút, hãy kiên nhẫn!"
+  },
+  "emailSendDialog.confirmButtonText": {
+    "zh-CN": "我知道了",
+    "en-US": "I know",
+    "ko-KR": "알아요",
+    "zh-HK": "我知道了",
+    "vi-VN": "tôi hiểu rồi"
+  }
+}
