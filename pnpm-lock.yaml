@@ -1,4 +1,4 @@
-lockfileVersion: 5.3
+lockfileVersion: 5.4
 
 specifiers:
   '@types/file-saver': ^2.0.5
@@ -33,7 +33,7 @@ devDependencies:
   sass: 1.54.5
   selenium-webdriver: 4.4.0
   sucrase: 3.25.0
-  ts-node: 10.9.1_c532c1b383b0670bfdc8e007fab27648
+  ts-node: 10.9.1_yuzmdm4dwbtqx7oi4ad7vmtwja
   typescript: 4.7.4
   vite: 3.0.9_sass@1.54.5
   vue-tsc: 0.39.5_typescript@4.7.4
@@ -1044,7 +1044,7 @@ packages:
     resolution: {integrity: sha512-Y/arvbn+rrz3JCKl9C4kVNfTfSm2/mEp5FSz5EsZSANGPSlQrpRI5M4PKF+mJnE52jOO90PnPSc3Ur3bTQw0gA==}
     dev: true
 
-  /ts-node/10.9.1_c532c1b383b0670bfdc8e007fab27648:
+  /ts-node/10.9.1_yuzmdm4dwbtqx7oi4ad7vmtwja:
     resolution: {integrity: sha512-NtVysVPkxxrwFGUUxGYhfux8k78pQB3JqYBXlLRZgdGUqTO5wU/UyHop5p70iEbGhB7q5KmiZiU0Y3KlJrScEw==}
     hasBin: true
     peerDependencies:

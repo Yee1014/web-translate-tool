@@ -8,6 +8,8 @@ Vue 3 + TypeScript + Vite
 
 ## i18n 国际化
 
+> [参考链接](https://baike.baidu.com/item/%E8%AF%AD%E8%A8%80%E4%BB%A3%E7%A0%81/6594123?fr=aladdin)
+
 | 国家地区               | 语言标识 |
 | ---------------------- | -------- |
 | 简体中文(中国)         | zh-CN    |
